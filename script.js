@@ -1,3 +1,7 @@
+function handleSubmit(){
+  window.location = "localhost:3000";
+}
+
 window.addEventListener('scroll',reveal);
 
 function reveal(){
