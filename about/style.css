@@ -228,7 +228,7 @@ button {
     align-items: center;
     text-align: center;
     width: 300px;
-    margin-left: 560px;
+    margin: auto;
     height: 6px;
     background-color: #000;
 }
