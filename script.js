@@ -1,5 +1,5 @@
 function handleSubmit(){
-  window.location = "localhost:3000";
+  window.location.href = "http://localhost:3000";
 }
 
 window.addEventListener('scroll',reveal);
